@@ -5,6 +5,6 @@
 　<a href="http://20.120v.ac/read/" target="_blank">网址三</a>
 　<br />
 &#8226; TruthNews电子报(书) 在线阅读网址：<br />
-  <a href="http://25.dns2.us/read/" target="_blank">http://25.dns2.us/tt</a><br />
-  <a href="http://ck.otzo.com:81/" target="_blank">hhttp://ck.otzo.com/tt</a><br />
-<a href="http://20.120v.ac/read/" target="_blank">http://20.120v.ac/tt</a><br />
+  <a href="http://25.dns2.us/read/" target="_blank">http://25.dns2.us/read</a><br />
+  <a href="http://ck.otzo.com:81/" target="_blank">hhttp://ck.otzo.com:81/</a><br />
+<a href="http://20.120v.ac/read/" target="_blank">http://20.120v.ac/read/</a><br />
