@@ -1,4 +1,3 @@
-直连 海外各大中文媒体 看禁闻 <br />
 &#8226; TruthNews 翻|墙|电子报：
 <a href="http://66.joe.dj:81/" target="_blank">网址一</a>
 　<a href="http://bo92.ml/read/" target="_blank">网址二</a>
